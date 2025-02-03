@@ -1,3 +1,7 @@
 Hello, Git!
 Here's my first line added
 Here's my second line added
+Here's my third line
+Fourth line
+fifth line
+sixth line
