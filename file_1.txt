@@ -3,3 +3,6 @@ Here's my first line added
 Here's my second line added
 Third line added
 Fourth line
+Fifth line
+Sixth line
+Sevent line
